@@ -22,6 +22,6 @@ DOCU.vexon.com
 
 ## 👨‍💻 Meet the team
 <p align="center">
-  <a href=https://ko-fi.com/kakarot><img width="420" src=https://github-readme-stats.vercel.app/api?username=GhzGarage&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
-  <a href=https://qwerty1-verified-scripts.tebex.io><img width="420" src=https://github-readme-stats.vercel.app/api?username=Qwerty1Verified&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+  <a href=https://ko-fi.com/kakarot><img width="420" src=https://github-readme-stats.vercel.app/api?username=NFIfCondition&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
+  <a href=https://qwerty1-verified-scripts.tebex.io><img width="420" src=https://github-readme-stats.vercel.app/api?username=Tamawawawawa&count_private=true&show_icons=true&title_color=dc143c&text_color=ffffff&icon_color=dc143c&hide_border=true&bg_color=282a36&layout=compact&hide_title=false&hide_rank=false><a>
 </p>
