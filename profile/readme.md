@@ -3,7 +3,7 @@
 </p>
 
 ## 👋 About us
-Vexon is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community!
+Vexon was developed to set modern standards in performance, stability, and flexibility.  Our goal is to provide server developers with an intuitive foundation that is easily expandable.
 
 ## 📚 Documentation
 https://docu.vexon.com
