@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="612" height="240" src="https://avatars.githubusercontent.com/u/242158114?s=200&v=4">
+  <img width="400" height="400" src="https://avatars.githubusercontent.com/u/242158114?s=200&v=4">
 </p>
 
 ## 👋 About us
