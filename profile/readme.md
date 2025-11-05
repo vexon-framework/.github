@@ -1,13 +1,12 @@
 <p align="center">
-    # LOGO
-  <img width="612" height="240" src="">
+  <img width="612" height="240" src="https://avatars.githubusercontent.com/u/242158114?s=200&v=4">
 </p>
 
 ## 👋 About us
 Vexon is an organization that provides open source code for the FiveM community. We pride ourselves on always advancing the way we develop and hope to pass that knowledge on to our community!
 
 ## 📚 Documentation
-DOCU.vexon.com
+https://docu.vexon.com
 
 ## 👉 Join the community
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)]()
